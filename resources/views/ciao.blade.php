@@ -1,5 +1,5 @@
 <?php
-    $title = 'ciao a tutti';
+    $title = 'secondo titolo';
 ?>
 
 <!DOCTYPE html>
@@ -18,6 +18,5 @@
 </head>
 <body>
     <h1 class="titolo">{{$title}}</h1>
-    <a href="/ciao">seconda pagina</a>
 </body>
 </html>
